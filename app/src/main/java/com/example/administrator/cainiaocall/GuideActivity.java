@@ -29,7 +29,7 @@ public class GuideActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_guide);
-//        it文件夹修改了东西
+//        it文件夹修改了东西as
 //        点点as
         initData();
         mBtnStart = (Button) findViewById(R.id.btn_start);
