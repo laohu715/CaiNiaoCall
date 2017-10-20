@@ -30,7 +30,7 @@ public class GuideActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_guide);
 //        it文件夹修改了东西
-//        点点滴滴
+//        点点it
         initData();
         mBtnStart = (Button) findViewById(R.id.btn_start);
         mViewPager = (ViewPager) findViewById(R.id.viewpager);
